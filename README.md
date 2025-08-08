@@ -1,2 +1,2 @@
 # ai-chatbot
-An AI chatbot project built with [your technology
+An AI chatbot project built with ai technology
